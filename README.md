@@ -10,8 +10,8 @@
 
 <h3 algin="left">Coding Challenges & Practice:</h3>
 <a href="https://www.hackerrank.com/elifhazalbuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elifhazalbuber" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hazalbuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hazalbuber" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/hazalbuber" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="hazalbuber" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hazalbuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hazalbuber" height="30" width="40" /></a>
 </p>
 
 
