@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Elif Hazal</h1>
- 🌱 I’m currently learning and improving **JavaScript, Python, and more!**
- 
-  📫 How to reach me **elifhazal.dev@gmail.com**
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
